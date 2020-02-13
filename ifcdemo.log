@@ -1,0 +1,87 @@
+﻿  ifcDemo.cpp
+F:\ifcdemo\src\ifcDemo.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+F:\ifcdemo\include\ifcparse\Ifc2x3.h(1049,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+F:\ifcdemo\include\ifcparse\Ifc2x3.h(1588,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+F:\ifcdemo\include\ifcparse\Ifc2x3.h(1973,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+F:\ifcdemo\include\ifcparse\Ifc2x3.h(2618,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+F:\ifcdemo\include\ifcparse\Ifc2x3.h(3111,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+F:\ifcdemo\include\ifcparse\Ifc2x3.h(3675,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+F:\ifcdemo\include\ifcparse\Ifc2x3.h(4135,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+F:\ifcdemo\include\ifcparse\Ifc2x3.h(5326,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+F:\ifcdemo\include\ifcparse\Ifc2x3.h(6033,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+F:\ifcdemo\include\ifcparse\Ifc2x3.h(6656,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+F:\ifcdemo\include\ifcparse\Ifc2x3.h(7319,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+F:\ifcdemo\include\ifcparse\Ifc2x3.h(8017,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+F:\ifcdemo\include\ifcparse\Ifc2x3.h(8356,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+F:\ifcdemo\include\ifcparse\Ifc2x3.h(8725,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+F:\ifcdemo\include\ifcparse\Ifc2x3.h(9458,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+F:\ifcdemo\include\ifcparse\Ifc2x3.h(9804,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+F:\ifcdemo\include\ifcparse\Ifc2x3.h(10616,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+F:\ifcdemo\include\ifcparse\Ifc2x3.h(10943,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+F:\ifcdemo\include\ifcparse\Ifc2x3.h(11399,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+F:\ifcdemo\include\ifcparse\Ifc2x3.h(11754,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+F:\ifcdemo\include\ifcparse\Ifc2x3.h(12094,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+F:\ifcdemo\include\ifcparse\Ifc2x3.h(12476,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+F:\ifcdemo\include\ifcparse\Ifc2x3.h(12889,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+F:\ifcdemo\include\ifcparse\Ifc2x3.h(13230,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+F:\ifcdemo\include\ifcparse\Ifc2x3.h(13661,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+F:\ifcdemo\include\ifcparse\Ifc2x3.h(14057,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+F:\ifcdemo\include\ifcparse\Ifc2x3.h(14372,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+F:\ifcdemo\include\ifcparse\Ifc2x3.h(14676,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+F:\ifcdemo\include\ifcparse\Ifc2x3.h(15419,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+F:\ifcdemo\include\ifcparse\Ifc2x3.h(15922,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+F:\ifcdemo\include\ifcparse\Ifc2x3.h(16517,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+F:\ifcdemo\include\ifcparse\Ifc2x3.h(17236,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+F:\ifcdemo\include\ifcparse\Ifc2x3.h(17589,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+F:\ifcdemo\include\ifcparse\Ifc2x3.h(17993,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+F:\ifcdemo\include\ifcparse\Ifc2x3.h(18390,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+F:\ifcdemo\include\ifcparse\Ifc2x3.h(18777,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+F:\ifcdemo\include\ifcparse\Ifc2x3.h(19493,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+F:\ifcdemo\include\ifcparse\Ifc2x3.h(19918,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+F:\ifcdemo\include\ifcparse\Ifc2x3.h(20322,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+F:\ifcdemo\include\ifcparse\Ifc2x3.h(20683,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+F:\ifcdemo\include\ifcparse\Ifc2x3.h(21109,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+F:\ifcdemo\include\ifcparse\Ifc2x3.h(21523,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+F:\ifcdemo\include\ifcparse\Ifc2x3.h(22315,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+F:\ifcdemo\include\ifcparse\Ifc2x3.h(22711,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+F:\ifcdemo\include\ifcparse\Ifc2x3.h(23160,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+F:\ifcdemo\include\ifcparse\Ifc2x3.h(23566,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+F:\ifcdemo\include\ifcparse\Ifc2x3.h(24015,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+F:\ifcdemo\include\ifcparse\Ifc2x3.h(24863,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+F:\ifcdemo\include\ifcparse\Ifc2x3.h(25373,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+F:\ifcdemo\include\ifcparse\Ifc2x3.h(25963,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+F:\ifcdemo\include\ifcparse\Ifc2x3.h(26463,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+F:\ifcdemo\include\ifcparse\Ifc2x3.h(26725,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+F:\ifcdemo\include\ifcparse\Ifc2x3.h(27066,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+F:\ifcdemo\include\ifcparse\Ifc2x3.h(27510,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+F:\ifcdemo\include\ifcparse\Ifc2x3.h(28383,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+F:\ifcdemo\include\ifcparse\Ifc2x3.h(28746,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+F:\ifcdemo\include\ifcparse\Ifc2x3.h(29140,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+F:\ifcdemo\include\ifcparse\Ifc2x3.h(29548,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+F:\ifcdemo\include\ifcparse\Ifc2x3.h(30010,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+F:\ifcdemo\include\ifcparse\Ifc2x3.h(30422,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+F:\ifcdemo\include\ifcparse\Ifc2x3.h(30824,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+F:\ifcdemo\include\ifcparse\Ifc2x3.h(31662,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+F:\ifcdemo\include\ifcparse\Ifc2x3.h(32434,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+F:\ifcdemo\include\ifcparse\Ifc2x3.h(32866,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+F:\ifcdemo\include\ifcparse\Ifc2x3.h(33279,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+F:\ifcdemo\include\ifcparse\Ifc2x3.h(33666,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+F:\ifcdemo\include\ifcparse\Ifc2x3.h(34259,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+F:\ifcdemo\include\ifcparse\Ifc2x3.h(34646,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+F:\ifcdemo\include\ifcparse\Ifc2x3.h(35104,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+F:\ifcdemo\include\ifcparse\Ifc2x3.h(35466,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+F:\ifcdemo\include\ifcparse\Ifc2x3.h(36482,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+F:\ifcdemo\include\ifcparse\Ifc2x3.h(36974,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+F:\ifcdemo\include\ifcparse\Ifc2x3.h(37643,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+F:\ifcdemo\include\ifcparse\Ifc2x3.h(38659,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+F:\ifcdemo\include\ifcparse\Ifc2x3.h(39166,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+F:\ifcdemo\include\ifcparse\Ifc2x3.h(39708,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+F:\ifcdemo\include\ifcparse\Ifc2x3.h(40107,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+F:\ifcdemo\include\ifcparse\Ifc2x3.h(40705,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+F:\ifcdemo\include\ifcparse\Ifc2x3.h(41181,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+    正在创建库 F:\ifcdemo\x64\Release\ifcdemo.lib 和对象 F:\ifcdemo\x64\Release\ifcdemo.exp
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 769 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  ifcdemo.vcxproj -> F:\ifcdemo\x64\Release\ifcdemo.exe
